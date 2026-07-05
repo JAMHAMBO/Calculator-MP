@@ -4,10 +4,12 @@ A simple calculator built using HTML, CSS, and JavaScript.
 
 ## Features
 
-- Basic arithmetic operations
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Clear button
 - Responsive design
-- Clean user interface
-- Keyboard-friendly buttons (if supported)
 
 ## Technologies Used
 
@@ -19,15 +21,15 @@ A simple calculator built using HTML, CSS, and JavaScript.
 
 https://jamhambo.github.io/Calculator-MP/
 
-## Screenshots
-
-(Add a screenshot here later)
-
 ## How to Run
 
-1. Download or clone the repository.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/JAMHAMBO/Calculator-MP.git
+   ```
+
 2. Open `index.html` in your browser.
 
 ## Author
 
-Hamza Tamboowala
+**Hamza Tamboowala**
